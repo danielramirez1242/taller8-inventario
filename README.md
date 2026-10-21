@@ -1,0 +1,1 @@
+# taller8-inventario
